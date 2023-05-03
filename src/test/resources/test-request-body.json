@@ -1,0 +1,9 @@
+{
+  "resourceType": "Parameters",
+  "parameter": [
+    {
+      "name": "startDate",
+      "valueDate": "2023-04-01T01:02:03.000Z"
+    }
+  ]
+}
